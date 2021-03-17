@@ -13,3 +13,5 @@ def gcd(a, b):
 
 a, b = map(int, input().split())
 print(gcd(a, b))
+
+#a가 b보다 작은 수를 넣어도 이 함수는 돌아감
